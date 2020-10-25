@@ -10,5 +10,3 @@ for x in newList:
     myString += chr(x)
 
 print(f"New Message: {myString}")
-
-    
