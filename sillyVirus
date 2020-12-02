@@ -1,0 +1,18 @@
+import time
+
+def load():
+	for x in range(30):
+		print("=",end="",flush=True)
+		time.sleep(.01)
+		
+print("\n\nloading Deadly Virus..")
+
+load()
+print(":\nDelete C Drive - COMPLETE")
+load()
+print(":\nInfiltrate all personal files - COMPLETE")
+load()
+print(":\nSend porn to family - COMPLETE")
+load()
+print(":\nWithdraw all money to Criminal account - COMPLETE")
+print("\nYou have been hacked.\n-Welcome to hell-")
